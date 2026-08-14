@@ -1,13 +1,13 @@
-## Hi there 👋<meta name="google-site-verification" content="MlYDmStz1Z5evU9nj9gusOoIhlMJinjzmB_m_deVG3k" />
+## Hi there 👋
 
--Cybersecurity Researcher <br>
--Founder Of PM Cybersecurity<br>
--Focussed On Securing The Web <br>
+- Cybersecurity Researcher <br>
+- Founder Of PM Cybersecurity<br>
+- Focussed On Securing The Web <br>
 <br><br>
--Security Research <br>
--Vulnerability Discovery<br> 
--Ethical Hacking <br>
--Building Safer Digital Systems.<br>
+- Security Research <br>
+- Vulnerability Discovery<br> 
+- Ethical Hacking <br>
+- Building Safer Digital Systems.<br>
 
 <a href="https://pmsecurity.online" target="_blank" class="bg-gradient-to-r from-cyberCyan to-cyberRed text-darkBg px-5 py-2 rounded-sm text-sm font-bold tracking-wide hover:opacity-90 transition-all duration-300">
                         Visit My website
