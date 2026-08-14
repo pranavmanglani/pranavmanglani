@@ -1,9 +1,9 @@
 ## Hi there 👋
 
--Cybersecurity Researcher
--Founder Of PM Cybersecurity
--Focussed On Securing The Web 
-
+-Cybersecurity Researcher <br>
+-Founder Of PM Cybersecurity<br>
+-Focussed On Securing The Web <br>
+<br><br>
 -Security Research 
 -Vulnerability Discovery 
 -Ethical Hacking 
