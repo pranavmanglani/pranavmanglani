@@ -13,8 +13,6 @@
                         Visit My website
                     </a>
 
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials">
-</iframe>
 <!--
 **pranavmanglani/pranavmanglani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
