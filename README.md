@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+-Cybersecurity Researcher
+-Founder Of PM Cybersecurity
+-Focussed On Securing The Web 
+
+-Security Research 
+-Vulnerability Discovery 
+-Ethical Hacking 
+-Building Safer Digital Systems.
 <!--
 **pranavmanglani/pranavmanglani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
