@@ -3,7 +3,7 @@
 - Cybersecurity Researcher <br>
 - Founder Of PM Cybersecurity<br>
 - Focussed On Securing The Web <br>
-<br><br>
+<br>
 - Security Research <br>
 - Vulnerability Discovery<br> 
 - Ethical Hacking <br>
