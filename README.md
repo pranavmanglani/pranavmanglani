@@ -1,3 +1,20 @@
+# Pranav Manglani | Cybersecurity Researcher & Penetration Tester
+
+## Technical Skills & Specializations
+* **Core Domains:** Web Application Security, Ethical Hacking, Vulnerability Assessment, Penetration Testing, Offensive Security.
+* **Programming Languages:** Python Development, Source Code Review, Automated Exploit Scripting.
+* **Certifications & Tools:** Burp Suite Certified Practitioner (OSCP Certification Training 75+).
+
+---# Pranav Manglani | Cybersecurity Researcher & Penetration Tester
+
+## Technical Skills & Specializations
+* **Core Domains:** Web Application Security, Ethical Hacking, Vulnerability Assessment, Penetration Testing, Offensive Security.
+* **Programming Languages:** Python Development, Source Code Review, Automated Exploit Scripting.
+* **Certifications & Tools:** Burp Suite Certified Practitioner (OSCP Certification Training 75+).
+
+---
+
+
 ## Hi there 👋
 
 - Cybersecurity Researcher, Trainer<br>
