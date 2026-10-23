@@ -12,17 +12,6 @@
 
 ---
 
-
-## Hi there 👋
-
-- Cybersecurity Researcher, Trainer<br>
-- Founder Of PM Cybersecurity<br>
-- Focussed On Securing The Web <br>
-- Vulnerability Discovery<br> 
-- Ethical Hacking <br>
-- Building Safer Digital Systems.<br>
-<br>
-
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00D9FF?style=for-the-badge)](https://pmsecurity.online)
 [![Web Security](https://img.shields.io/badge/Web%20Security-8B5CF6?style=for-the-badge)](https://pmsecurity.online/#knowledgebase)
 [![Penetration Tester](https://img.shields.io/badge/Penetration%20Tester-EC4899?style=for-the-badge)](https://pmsecurity.online/#about)
